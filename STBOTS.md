@@ -3,7 +3,9 @@ Shadow Tactics: Blades of the Shogun
 
 * The modern stealth games I've played have sacrificed more and more of the satisfaction that comes from pulling off a perfect mission.  They trade this away so that when your cover is blown, you can draw weapons and take down enemies in a flurry of bullets or blades.  Shadow Tactics: Blades of the Shogun brings back that satisfaction, but makes you earn it.  
 
-* BOTS is the only game I've played in the genre it is attempting to revive: real time tactical stealth.  It controls like an RTS or a MOBA but you are moving multiple characters through each level.
+BOTS is the only game I've played in the genre it is attempting to revive: real time tactical stealth.  It controls like an RTS or a MOBA but you are moving multiple characters through each level.  The fact that this is a completely new-to-me genre may be winning it some extra favor, so I want to mention that first.
+
+
 * The real time nature heightens the tension without the game having to resort to stressful timers.  Observe patrol routes and make note of hiding places.  Take all the time you want to plan your next move, but when it's time to execute, you must do so flawlessly.  
 
 * Each mission is like a series of connected puzzle rooms.  When you spend long enough in them, you start to see some some of the solutions that the designers set up.  But because you're controlling multiple characters with their own items and moves, it never seems like there's only one "real" solution.  In most areas you have the option of taking out enemies one by one, then simply waltzing out.  Or, you can create a series of distractions and slip from cover to cover.  Both are satisfying thanks to the freedom and precision the game affords.
