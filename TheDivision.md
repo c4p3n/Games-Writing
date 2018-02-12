@@ -1,0 +1,5 @@
+You should play The Division alone.
+
+The Division is a good loot shooter, but that's not what convinced me to buy it.  It was partially the 1.8 update, which I heard improved a ton of endgame stuff.  That's the boring, technical reason.  
+
+The other reason is I could never quite keep it out of my head after playing it once during a free weekend.  I was walking down a beautifully rendered New York street during the Christmas apocalypse.  Suddenly, from somewhere, a desperately sad song began to reverberate off the brownstone walls.  I stopped my character in the middle of the street, between piles of trash and exhausted vehicles, and listened.  It reminded me of the time my friend and I visited his sister in New York in the winter.  She was at NYU, staying at an impossibly small apartment.  Our flight back home was cancelled because of snow and she kicked us out.  She had a study group coming over and there was no way that space could support more than 4 people.  So we wandered around the streets of the city.  There are things that other "loot" games do far better than The Division, but I have yet to play one that has it beat on atmosphere.
