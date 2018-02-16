@@ -1,11 +1,17 @@
-You should play The Division alone.
-
 The Division is a good loot shooter, but that's not what convinced me to buy it. It was partially the 1.8 update, which I heard improved a ton of endgame stuff. That's the boring, technical reason.
 
 The other reason is that I could never quite keep it off my mind after playing during a free weekend. I was walking down a beautifully rendered New York street during the Christmas apocalypse. Suddenly, a desperately sad song began to float towards me from a forgotten radio. I stopped and stood between piles of trash and exhausted vehicles, listening to it reverberate off the brownstone walk-ups. It reminded me of the time my friend and I visited his sister in New York at Christmas. Our flight back home was canceled because of snow. With no plans left, we wandered around the streets of the city. There are things that other loot games do far better than The Division, but I have yet to play one that has it beat on atmosphere.
 
-But you'd miss that if you played with others, at least in the way most groups play these games: run to objective, shoot shoot shoot, pick up gear, mark a new map icon, repeat. Something about this pace of play makes me anxious.  Don't get me wrong, it's great to catch up with friends over a hostage rescue or two.  I just don't enjoy the pressure of feeling like I have to sprint to the next mission when I really want to check out a piece of intel, or duck into an open apartment to see what was left behind.
+You would probably miss the scene I just described if you played with others, at least in the way most groups play these games: run to objective, shoot shoot shoot, pick up gear, mark a new map icon, repeat. Something about this pace of play makes me anxious.  Don't get me wrong, it's great to catch up with friends over a hostage rescue or two.  I just don't enjoy the pressure of feeling like I have to sprint to the next mission when I really want to check out a piece of intel, or duck into an open apartment to see what was left behind.
 
-I'm still working through story missions and I get just a little bit excited to see what the next safe house is going to look like.  The scenes that are 
+I'm still working through story missions and I still get a little bit excited to see what the next safe house will look like.  These are really the only places (besides the ECHO holograms scattered throughout the city) that you get to see more elaborate scenes.  Sometimes it's just a corner with a bunk bed and some board games scattered around.  Recently I was running around the Base of Operations and stumbled upon a group of refugees gathered around someone fumbling through a tune on the guitar.  It's a simple vignette but it works as a calm interlude between shooting and sprinting.  Then there are the audio logs.  My favorite kinds of these are the mundane ones that are only tangentially related to the events of the game.  One is a dad asking his daughter to take care of their bees, so that they'll at least have fresh honey.  Another is a man describing his plan to ride out this whole thing on a farm he bought in Virginia.  You never know what you're going to hear when you pick one up, and that's what keeps me going after them.
 
-When I pass two people talking I always stop to hear what their lives are like after the Dollar Flu.  Many times it's grim and despairing, but it can also be pleasantly mundane.  I find myself getting annoyed if I'm shot at during these moments.  Bullets whizzing by always cut off conversation.  What a drag.
+![Base of Operations Guitar Playing]()
+*Hopefully I get the "request Wonderwall" emote in my next loot box.*
+
+To be clear, not all this stuff works.  The ambient dialogue ranges from goofy to just plain bad.  You can feel the game working so hard to convince you that the people you are gunning down are PURE EVIL. With audio logs, the ECHOs, and other not-so-subtle storytelling paraphernalia they attempt to turn looters and city workers into cartoon villains.  There's also the occasional reminder that, oh yeah, this virtual New York was actually concocted in Sweden.
+
+![Iced Cold Beer]()
+*The Big Apple's favorite way to drink beer.*
+
+If you can look past that stuff, you don't even have to make it to the endgame to find a lot worth playing.  I don't know if I'll ever participate in the wide variety of high level shenanigans.  For me, it's enough knowing that it will always be Christmastime in New York.
