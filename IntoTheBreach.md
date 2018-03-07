@@ -22,6 +22,7 @@ Is Into The Breach a Strategy game or a Puzzle Game?  Does it matter?
 * I think it "feels" like a puzzle game too, but I'm not sure why.
 
 
-I'm really enjoying Into the Breach.  I think it takes a lot of good design and courage to build a game where the player can plan their next move with all the information they need right in front of them.  I takes good design for obvious reasons.  It takes courage because player omniscience is scary.  It can make the game feel small in scope or boring.  Or, it could make people call your strategy game a puzzle game.
+I'm really enjoying Into the Breach.  It takes a lot of work and courage to build a game where the player can plan their next move with all the necessary information right in front of them. Player omniscience is a scary thing because it can lead to quick mastery or boredom.  It can even get the game assigned to a different genre.
 
-In reading stories about Into The Breach I've stumbled upon more than a few comments about how this game that bills itself as a Strategy game is actually more like a Puzzle game.  It made me wonder why people think that and why it seems that the term "puzzle" is used like a put down.
+In reading stories about Into The Breach I've stumbled upon more than a few comments about how this strategic Starship Troopers simulator is actually more like a kaiju-killing puzzle.  So why do people think that and why does it seem that the term "puzzle" is used like a put down?  The answer appears to lie in the game's scope and generous UI.
+
