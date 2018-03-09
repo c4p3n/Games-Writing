@@ -17,14 +17,14 @@ Hoping this was just a confined bit of genre snobbery, I went looking elsewhere.
 
 ![RPS comment](/content/images/2018/03/ITBRPSComment1-0.png)
 
-"Mindless repetition" and "trivial variations" feels pretty harsh.  ITB has a significant number of mechs, pilots, and weapons you can combine and a good variety of enemies that will force you to change up your *strategy*.  See, I used the word.  Do I win?
+"Mindless repetition" and "trivial variations" feels pretty harsh.  ITB has a significant number of mechs, pilots, and weapons you can combine and a good variety of enemies that will force you to change up your *strategy*.  See, I used the word.  Do I win?  In fact, the game layers on complexity as you progress with more ways to move, take, and recieve damage.  Surprises still happen because you've forgotten something that's indicated clearly on the battlefield.
 
-And then there's this ultra spicy take:
+I'll cap off this series of hot takes with the spiciest one of all:
 
 ![tabletop puzzle games? You mean jigsaw puzzles?](/content/images/2018/03/ITBRPSComment2-0.png)
 
-Well, I'm glad they're at least having fun.
+Well, I'm glad they're having fun at least.
 
-The thing is, it might seem like I'm trying to keep the tainted name of "puzzle" off my precious strategy game, but I'm not.  I agree that there is quite a bit of puzzle running through ITB, but I don't see that as a bad thing.  I love having all the data I need to make a plan and execute a perfect series of moves to avoid all damage and save the cyberpunk bar.  I love that the game fits on one screen and I don't have to send a doomed scout mech pounding off into the fog of war. 
+It might seem like I'm trying to keep the tainted name of "puzzle" off my precious strategy game, but I'm not.  I even agree that there is quite a bit of puzzle running through ITB, but it doesn't degrade it.  I love having all the data I need to make a plan and execute a perfect series of moves to save an dystopian island's only bar.  I love that the game fits on one screen and I don't have to send a doomed scout mech pounding off into the fog of war. 
 
 For some, the term "puzzle" is used as a stand-in for easy or simple.  I see it as a triumph of design and focus. 
