@@ -1,0 +1,10 @@
+Like most things, Steamworld Dig 2 can be summarized in a Simpsons GIF:
+	*Bart digging GIF*
+
+Usually when I play a game with such an unvarnished loop I bounce right off, assuming that my mind is immune to such blatant manipulation.  Steamworld Dig 2 is one of those rare games that causes some uncomfortable introspection.  What does it say about me that this hooked me, and why do I care?
+
+First, why does this game's loop work when others fail?  Loops like the one in, oh I don't know, the first Steamworld Dig for example.  I bought it for Nintendo 3DS but what I played barely felt like a game.  The digging was satisfying enough, but the return to the surface was needlessly arduous.  Returning to the surface to sell my rocks (sorry, minerals) could involve several minutes of awkwardly jumping up walls.  Finding teleporters back to the surface was far too rare and the price for buying one was, if you'll excuse the meme, too damn high.  So, I hung up my pickaxe and lantern...and steam jetpack thing.  
+
+The sequel debuted and it seemed like people enjoyed it but I shrugged.  I thought I couldn't be tempted by a 2D mining game where the primary reward for your mining is getting better at mining.  I was so wrong.  Image & Form have refined the loop in Dig 2 so well that it feels like they have calculated the ideal amount of time between upgrades for your pigtailed robot.  They probably have some silly internal acronym for it like TTU (Time To Upgrade) and use it on endless graph axes. 
+
+The upgrades themselves are plentiful and varied.  More importantly, they are plain fun to use.  Most follow the logical path of turning a thing that is a pain early on into a thing you never have to think about.  Lantern light depleting, running out of water, returning to town, and even dying are all pretty much non-issues after a few hours.
